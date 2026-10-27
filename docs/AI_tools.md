@@ -44,6 +44,7 @@
 - [可灵 Kling](https://klingai.kuaishou.com) — 快手国产视频大模型，人物动作真实、可生成长时长视频。
 - [Vidu](https://www.vidu.cn) — 生数科技与清华联合出品的国产文生视频模型。
 - [海螺 Hailuo](https://hailuoai.com/video) — MiniMax 出品的国产视频生成工具，画面流畅、效果稳定。
+- [OpenMontage Drama Studio](https://github.com/charliewwdev/OpenMontage) — 开源（AGPL-3.0）可自部署的 AI 短剧工坊，一句话灵感 → 剧本、角色、场景、道具、分镜出片、配音、剪辑，适合短剧、爆款短视频和带货广告片；视频镜头调用火山方舟 Seedance（付费 API）。
 
 ### AI 编程/IDE
 
